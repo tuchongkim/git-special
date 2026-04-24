@@ -1,0 +1,24 @@
+{
+  "name": "git-special",
+  "version": "1.0.0",
+  "description": "> 나의 기본 정보",
+  "homepage": "https://github.com/tuchongkim/git-special#readme",
+  "bugs": {
+    "url": "https://github.com/tuchongkim/git-special/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuchongkim/git-special.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky"
+  },
+  "devDependencies": {
+    "husky": "^9.1.7"
+  }
+}
