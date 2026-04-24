@@ -10,3 +10,4 @@
 ## reabase and merge test
 
 1. 충돌용 메시지 1
+1. 충돌용 메시지 2
